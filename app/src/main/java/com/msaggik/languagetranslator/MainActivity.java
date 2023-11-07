@@ -78,7 +78,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public static void dataInfo() {
-        ruIt.put("я","Io");
+        ruIt.put("я","Io"); ////
         ruIt.put("ты","TU");
         ruIt.put("он","lui");
         ruIt.put("она","lei");
@@ -95,6 +95,6 @@ public class MainActivity extends AppCompatActivity {
         itRu.put("LORO","мы");
         itRu.put("COME VA","привет");
         itRu.put("CHE FARE","как дела");
-        itRu.put("COME IL TEMPO","КАК ПОГОДА");
+        itRu.put("COME IL TEMPO","КАК ПОГОДА"); //можно ещё добавить слова
     }
 }
